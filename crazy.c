@@ -4,6 +4,7 @@ void main()
 {
 	char name[20];
 
+	
 	fputs("이름을 입력하세요 : ", stdout);
 	scanf("%s", name);
 
